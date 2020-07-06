@@ -1,0 +1,23 @@
+{
+  "name": "gitlearn",
+  "version": "1.0.0",
+  "description": "git学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangboxun/learngit.git"
+  },
+  "keywords": [
+    "git",
+    "学习"
+  ],
+  "author": "杨博勋",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangboxun/learngit/issues"
+  },
+  "homepage": "https://github.com/yangboxun/learngit#readme"
+}
