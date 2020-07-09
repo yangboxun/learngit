@@ -3,7 +3,7 @@ import symbol from 'log-symbols';
 import chalk from 'chalk';
 import inquirer from 'inquirer';
 import downloadGit from 'download-git-repo';
-console.log('我再一个多文件冲突吧')
+console.log('我接受一个多文件冲突吧')
 // 文件是否存在
 let isExist = async(name) => {
     return new Promise((resolve) => {

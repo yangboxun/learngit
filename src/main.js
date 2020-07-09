@@ -6,7 +6,7 @@ import create from './create'; // 项目创建
 import init from './init'; //  项目初始哈
 import dev from './dev'; //  项目启动
 import build from './build'; //  项目打包
-console.log('我再一个多文件冲突吧')
+console.log('我接受一个多文件冲突吧')
 /**
  * xq-cli 命令列表
  */
