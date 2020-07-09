@@ -8,6 +8,7 @@ import dev from './dev'; //  项目启动
 import build from './build'; //  项目打包
 console.log('1234')
 console.log('陈真真创建新的冲突')
+console.log('陈真真有创建了一个冲突')
 
 /**
  * xq-cli 命令列表
