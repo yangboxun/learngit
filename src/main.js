@@ -6,11 +6,7 @@ import create from './create'; // 项目创建
 import init from './init'; //  项目初始哈
 import dev from './dev'; //  项目启动
 import build from './build'; //  项目打包
-<<<<<<< HEAD
 console.log('1234')
-=======
-console.log('123')
->>>>>>> f18f3bd3f6e116bfccf2d905e56a396d9818008d
 
 /**
  * xq-cli 命令列表
