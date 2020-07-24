@@ -8,6 +8,7 @@ import dev from './dev'; //  项目启动
 import build from './build'; //  项目打包
 console.log('12');
 console.log('1231456');
+console.log('1231232')
 /**
  * xq-cli 命令列表
  */
