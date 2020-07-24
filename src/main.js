@@ -8,7 +8,9 @@ import dev from './dev'; //  项目启动
 import build from './build'; //  项目打包
 console.log('12');
 console.log('1231456');
-console.log('1231232')
+console.log('1231232');
+console.log('12453135');
+console.log('12453135');
 /**
  * xq-cli 命令列表
  */
@@ -112,4 +114,4 @@ program
 if (!process.argv.slice(2).length) {
    program.outputHelp();
 }
-console.log('1231321345645')
+console.log('12453135')
