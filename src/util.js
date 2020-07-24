@@ -3,7 +3,6 @@ import symbol from 'log-symbols';
 import chalk from 'chalk';
 import inquirer from 'inquirer';
 import downloadGit from 'download-git-repo';
-console.log('12345613513')
 // 文件是否存在
 let isExist = async(name) => {
     return new Promise((resolve) => {
