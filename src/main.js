@@ -112,4 +112,4 @@ program
 if (!process.argv.slice(2).length) {
    program.outputHelp();
 }
-console.log('123132')
+console.log('1231321345645')
