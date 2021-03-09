@@ -2,7 +2,7 @@ import symbol from 'log-symbols';
 import chalk from 'chalk';
 import ora from 'ora';
 
-console.log('123123')
+console.log('123123');
 
 import { 
     isExist,
